@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi there, I'm Ashwin
 
-<!--
-**ashwinbhola/ashwinbhola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Machine Learning Engineer at Bloomberg**, where I build high-performance systems to bridge the gap between complex data and actionable intelligence. My technical focus lies at the intersection of **NLP** and **large-scale ML infrastructure**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Beyond the Code
+
+When I’m not optimizing models or scaling systems, I trade production environments for the study of **Psychology and Philosophy**. I am deeply fascinated by the "human algorithm", exploring how we think, why we act, and the ethical frameworks that guide our evolution.
+
+I document these reflections and existential deep-dives over at [ashwinbhola.github.io](https://ashwinbhola.github.io/).
+
+---
+
+### 📊 Vital Signs & Connect
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinbhola&show_icons=true&theme=radical" alt="Ashwin's GitHub stats" />
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinbhola) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ab8084@nyu.edu) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=ashwinbhola&icon=0&color=0)](https://visitcount.itsvg.in)
