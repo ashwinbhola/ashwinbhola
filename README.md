@@ -12,14 +12,9 @@ I document these reflections and existential deep-dives over at [ashwinbhola.git
 
 ---
 
-### 📊 Vital Signs & Connect
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinbhola&show_icons=true&theme=radical" alt="Ashwin's GitHub stats" />
-</p>
+### 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwinbhola) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ab8084@nyu.edu) 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashwinbhola&icon=0&color=0)](https://visitcount.itsvg.in)
